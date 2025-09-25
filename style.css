@@ -1,0 +1,85 @@
+/* General */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #cccccc;
+    color: #333;
+}
+
+/* Barra de navegación */
+nav {
+    background-color: #222;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* Header */
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background: linear-gradient(to right, #007acc, #00c4cc);
+    color: white;
+    position: sticky;
+}
+
+header img {
+    margin-bottom: 15px;
+}
+
+header h1 {
+    margin: 10px 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+header a img {
+    margin-top: 10px;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #007acc;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+
+
+ul li {
+    margin-bottom: 15px;
+}
+
+
+
+
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
